@@ -1,6 +1,4 @@
 
-
-markdown
 Basic Library Management System  
 
 This is a **very basic library management system** built using Python. It is designed for beginners to understand the basics of managing books in a library system. The code allows you to:  
@@ -10,6 +8,7 @@ This is a **very basic library management system** built using Python. It is des
 - Perform basic book management  
 
 This project is a foundation for learning and **requires further development** to include advanced features such as user authentication, book search, borrowing/returning functionality, and database integration.  
+This one is a basic system so you have to use this to develop more uniq
 
 Features  
 - Minimal and easy-to-understand code  
